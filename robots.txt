@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://janne-karttunen.local/sitemap.xml
+Sitemap: https://jannkar.github.io/me/sitemap.xml

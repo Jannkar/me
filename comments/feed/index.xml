@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Janne Karttunen	</title>
-	<atom:link href="/me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/me/</link>
-	<description>Portfolio - Janne Karttunen</description>
-	<lastBuildDate>Tue, 27 Aug 2024 07:33:03 +0000</lastBuildDate>
+	<atom:link href="https://jannkar.github.io/me/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jannkar.github.io/me/</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Tue, 27 Aug 2024 08:33:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
