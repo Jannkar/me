@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://jannkar.github.io/me/wp-content/uploads/2024/08/cropped-jk-logo-2-32x32.webp</url>
+	<title>Blog Posts &#8211; Janne Karttunen</title>
+	<link>https://jannkar.github.io/me/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Open sourcing ROS 2 Task Manager package</title>
 		<link>https://jannkar.github.io/me/open-sourcing-ros-2-task-manager-package/</link>
